@@ -11,8 +11,8 @@
     },
     "autoload": {
         "psr-4": {
-            "SharedServices\\": "src/",
-            "SharedServices\\Tests\\": "tests/"
+            "HealiosTrial\\": "src/",
+            "HealiosTrial\\Tests\\": "tests/"
        }
     },
     "require-dev": {

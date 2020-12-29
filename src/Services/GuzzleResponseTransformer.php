@@ -1,6 +1,6 @@
 <?php
 
-namespace SharedServices\Services;
+namespace HealiosTrial\Services;
 
 use Psr\Http\Message\ResponseInterface;
 
