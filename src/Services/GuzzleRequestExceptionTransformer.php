@@ -1,6 +1,6 @@
 <?php
 
-namespace SharedServices;
+namespace SharedServices\Services;
 
 use GuzzleHttp\Exception\RequestException;
 

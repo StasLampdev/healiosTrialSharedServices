@@ -1,6 +1,6 @@
 <?php
 
-namespace SharedServices;
+namespace SharedServices\Services;
 
 use Symfony\Component\HttpFoundation\Request;
 
