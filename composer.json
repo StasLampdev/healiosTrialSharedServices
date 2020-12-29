@@ -1,0 +1,21 @@
+{
+    "name": "stas-lampdev/healios-trial-shared-services",
+    "description": "Shared services for Healios trial task",
+    "license": "MIT",
+    "type": "library",
+    "require": {
+        "php": ">=7.1.3",
+        "ext-json": "*",
+        "guzzlehttp/guzzle": "^7.0",
+        "symfony/http-foundation": "4.4.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "SharedServices\\": "src/",
+            "SharedServices\\Tests\\": "tests/"
+       }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^8.5"
+    }
+}
